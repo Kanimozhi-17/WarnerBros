@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+
+.sections_heading{
+    border-left: 3px solid #a5a5a5;
+    line-height: 1;
+    padding-left: 4%;
+    font-weight: 800;
+    font-size: 30px;
+   
+}
+
+.part_1{
+    background-color: black;
+    width: 100%;
+}
+
+.banner_image{
+    margin: 0%;
+    padding-bottom:3%;
+}
+
+.banner_image img{
+    width: 100%;
+}
+
+.banner_image_caption{
+    color: white;
+    margin-bottom: 3%;
+    margin-left: 5%;
+    margin-right: 3%;
+    margin-top: 3%;
+    border-left: 1px solid #474747;
+    line-height: 1;
+    padding-left: 3%;
+}
+
+.banner_image_caption p{
+    margin:0%;    
+}
+
+.justice_league{
+    font-weight: 800;
+    font-size: 30px;
+    padding-bottom: 3%;
+}
+
+.own_today{
+    font-size: 15px;
+    padding-bottom: 3%;
+    color: #fffeff;
+}
+
+.follow{
+    padding-bottom: 1%;
+    font-size: 13px;
+}
+
+
+
+.own_today img{
+    width: 5%;
+    height: 5%;
+    padding-left: 2%;
+    vertical-align: bottom;
+}
+
+
+/* ***********************Design for part 1*************************** */
+
+.part_2{
+    margin-left: 5%;
+    padding-bottom: 3%;
+}
+
+
+.digital{
+    font-weight: 800;
+    padding-left: 4%;
+    font-size: 19px;
+}
+
+.app_section img{
+    margin-left:4%;
+}
+
+.about{
+    font-weight: 800;
+    font-size: 23px;
+    transform: scaleY(1.5);
+    margin-bottom: 1%;
+}
+
+.para_about{
+    margin: 0%;
+    font-size: 14px;
+    line-height: 25px;
+    padding-right: 2%;
+}
+
+/* ***********************Design for part 2*************************** */
+
+
+.part_3{
+    background-color: #10131c;
+    color:#ffffff;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
+
+.part_3 p{
+    margin: 0%;
+}
+
+.big_heading{
+    font-weight: 800;
+    font-size: 26px;
+    padding-bottom: 1%;
+}
+
+.small_heading{
+    font-size: 15px;
+    padding-bottom: 4%;
+    color: #fffeff;
+}
+
+/* ***********************Design for part 3*************************** */
+
+
+.part-4_heading{
+    padding-left: 5%;
+}
+
+.meave_section{
+    background-color: black;
+    color: #c0c0c2;
+    padding-bottom: 2%;
+}
+
+.meave_section figure{
+    margin: 0%;
+}
+.meave{
+    width: 100%;
+}
+
+.meave_section figcaption{      
+    padding-top: 3%;
+    padding-left: 6%;
+    padding-bottom: 7%;
+    line-height: 25px;
+}
+
+.slider{
+   text-align: center;
+} 
+
+.slider img{
+    padding-right: 2%;
+}
+
+/* ***********************Design for part 4*************************** */
+
+
+.images_last_part{
+    margin: 0%;
+    width: 100%;
+}
+
+.lat_part{
+    background-color: black;
+}
+
+.small_last_thumb_images{
+    padding-top: 1%;
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+.image_thumb{
+    border: 4px solid black;
+    padding: 3px;    
+}
+
+.selected{
+    border: 4px solid #00b3fe;
+    padding: 3px;
+    width: 17%;
+    height: 10%;
+}
+
+
+.last_slider_img{
+    border-top:4px solid black ;
+    border-left:4px solid black ;
+    border-bottom:4px solid black ;
+    border-right: none;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: none;
+}
+
+.follow_content{
+    background-color: #1a1a1a;
+    color: #a8a2a6;
+}
+.follow_content_center{
+    text-align: center;
+}
+.follow_content p{
+    margin: 0%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+.follow_content img{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 2%;
+    width: 5%;
+    height: 5%;
+}
+
+ul{
+    list-style: none;
+    margin: 0%;
+    
+}
+
+a{
+    text-decoration: none;
+    color:#d8d8da;
+    font-size: 14px;
+}
+
+
+.last_links{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li{
+    padding-bottom: 10px;
+}
+
+.vertical_line{
+    padding-left: 8%;
+    padding-right: 24%;
+    border-right: 1px solid #313131;
+}
+
+.after_line{
+    padding-left: 0%;
+    padding-right: 9%;
+}
